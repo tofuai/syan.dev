@@ -1,0 +1,47 @@
+#-------------------------------
+# General Site Settings
+title: SYAN
+logo: logo.svg # You can add own logo.
+logo__text: SYAN.DEV
+description: Blog về Fitness, Lifestyle và Programming
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Sỹ An
+  image: avatar.jpg
+  say-hello: Xin chào, Mình là <strong>Sỹ An</strong>
+  bio: Mình viết blog về <strong>fitness</strong>, <strong>lifestyle</strong> và <strong>programming</strong>. Rất hi vọng những bài viết của mình có thể truyền lửa cho các bạn, có một lối sống tích cực hơn !
+
+
+#-------------------------------
+# Contact links
+# twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://www.facebook.com/syan.vn/ # Add your Facebook handle
+# dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://www.instagram.com/syan.dev/ # Add your Instagram handle
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
+linkedin: https://www.linkedin.com/in/syandev/
+email: syan.vn@gmail.com
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
