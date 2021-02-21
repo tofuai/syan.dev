@@ -3,7 +3,7 @@
 title: SYAN
 logo: logo.svg # You can add own logo.
 logo__text: SYAN.DEV
-description: Blog về Fitness, Lifestyle và Programming
+description: Blog về lifestyle, coding và fitness
 
 
 #-------------------------------
@@ -12,7 +12,7 @@ author:
   name: Sỹ An
   image: avatar.jpg
   say-hello: Xin chào, Mình là <strong>Sỹ An</strong>
-  bio: Mình viết blog về <strong>fitness</strong>, <strong>lifestyle</strong> và <strong>programming</strong>. Rất hi vọng những bài viết của mình có thể truyền lửa cho các bạn, có một lối sống tích cực hơn !
+  bio: Mình viết blog về <strong>lifestyle</strong>, <strong>coding</strong> và <strong>fitness</strong>. Rất hi vọng những bài viết của mình có thể truyền lửa cho các bạn, có một lối sống tích cực hơn !
 
 
 #-------------------------------
