@@ -23,11 +23,11 @@ Mùa hè xanh của mình là những buổi dạy học cho trẻ vùng cao, nh
 
 ![mùa hè xanh](/images/about/mhx_walk.jpg "Mùa hè xanh 2016 - Hóa Trung. Chân rảo bước hát chung một bài ca.")
 
-Tháng 7 năm 2018, mình dành được chiếc học bổng đầu tiên ! Một khóa học Robot ngắn hạn tại học viện công nghệ Shibaura, Nhật Bản. Dẫn đoàn là thầy Ngô Lam Trung, người đã giúp đỡ và động viên mình rất nhiều sau này khi kiếm các học bổng khác.
+Tháng 8 năm 2017, mình dành được chiếc học bổng đầu tiên ! Một khóa học Robot ngắn hạn tại học viện công nghệ Shibaura, Nhật Bản. Dẫn đoàn là thầy Ngô Lam Trung, người đã giúp đỡ và động viên mình rất nhiều sau này khi kiếm các học bổng khác.
 
 ![Nhật Bản osen](/images/about/japan_group.JPG "Đi tắm Osen")
 
-Tháng 1 năm 2019, mình bắt đầu một hành trang mới, đến một vùng đất xa xôi có tuyết và ông già Nô-En ! Xách vali lên và đi, mình học một kì trao đổi tại trường Đại học Công nghệ Tampere, Phần Lan theo học bổng Erasmus+ KA1. Cuộc sống ở đây vui, mình ngộ ra được rất rất nhiều điều khi được tiếp xúc những người bạn nơi xa với góc nhìn cuộc sống hoàn toàn khác.
+Tháng 1 năm 2018, mình bắt đầu một hành trang mới, đến một vùng đất xa xôi có tuyết và ông già Nô-En ! Xách vali lên và đi, mình học một kì trao đổi tại trường Đại học Công nghệ Tampere, Phần Lan theo học bổng Erasmus+ KA1. Cuộc sống ở đây vui, mình ngộ ra được rất rất nhiều điều khi được tiếp xúc những người bạn nơi xa với góc nhìn cuộc sống hoàn toàn khác.
 
 ![Tuyết Phần Lan](/images/about/finland.jpg "Tuyết và người bạn cùng nhà")
 
