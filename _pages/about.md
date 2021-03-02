@@ -43,7 +43,7 @@ Mười bảy ngày thực sự quý giá như một giấc mơ. Mỗi ngày tr�
 
 ![Indonesia](/images/about/happy_indonesia.JPG "Tiếng cười và biển Ấn Độ Dương")
 
-Những chuyến đi thời sinh viên, thì cũng đầy những kỉ niệm khốn khó của sinh viên. Và đáng nhớ nhất, là khi mình và Minh Tô ăn bánh mì và trải báo ngủ 2 đêm ở sân bay Malaysia chả hạn.
+Những chuyến đi thời sinh viên, thì cũng đầy những kỉ niệm khốn khó của sinh viên. Và đáng nhớ nhất, là khi mình cùng Minh Tô ăn bánh mì và trải báo ngủ 2 đêm ở sân bay Malaysia chả hạn.
 
 ![Sân bay đêm không ngủ](/images/about/sleep.jpg "Ngủ trải báo tại sân bay Malaysia")
 
