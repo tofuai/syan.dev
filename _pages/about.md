@@ -27,7 +27,7 @@ Tháng 8 năm 2017, mình dành được chiếc học bổng đầu tiên ! M�
 
 ![Nhật Bản osen](/images/about/japan_group.JPG "Đi tắm Osen")
 
-Khi nói đến Nhật Bản, mình sẽ nhớ mãi hai người bạn, Shin và Rei. Và cũng ít khi nào mình có duyên với một người bạn nước ngoài đến vậy, mình gặp Shin ba lần tất thảy, hai lần ở Việt Nam và một lần ở Nhật Bản. Nếu có cơ hội, thì mong có thể được gặp cả Shin và Rei để cùng chạm một cụm bia. Champai ! Còn Rei, mình chỉ gặp có một lần, còn lần thứ hai Rei sang Việt Nam thăm mình thì mình đang ở một nơi khác xa ...
+Khi nói đến Nhật Bản, mình sẽ nhớ mãi hai người bạn, Shin và Rei. Và cũng ít khi nào mình có duyên với một người bạn nước ngoài đến vậy, mình gặp Shin ba lần tất thảy, hai lần ở Việt Nam và một lần ở Nhật Bản. Còn Rei, mình chỉ gặp có một lần, còn lần thứ hai Rei sang Việt Nam thăm mình thì mình đang ở một nơi khác rất xa ... Nếu có cơ hội, thì mong có thể được gặp cả Shin và Rei để cùng chạm một cụm bia. Champai ! 
 
 ![Nhật Bản osen](/images/about/shin.jpg "Đi tắm Osen")
 
