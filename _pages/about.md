@@ -9,7 +9,7 @@ image:
 
 Xin chào các bạn, tên đầy đủ của mình là Nguyễn Sỹ An.
 
-Mình sinh ra và lớn lên ở Hòa Bình. Năm 2015, chân ướt chân ráo bước lên Hà Nội, sự kiến đánh dấu cột mốc với rất nhiều sự thay đổi sau này của bản thân. Mình theo học hệ Kỹ sư công nghệ thông tin, Đại học Bách Khoa Hà Nội.
+Mình sinh ra và lớn lên ở Hòa Bình. Năm 2015, chân ướt chân ráo bước lên Hà Nội, sự kiến đánh dấu cột mốc với rất nhiều thay đổi sau này của bản thân. Mình theo học hệ Kỹ sư công nghệ thông tin, Đại học Bách Khoa Hà Nội.
 
 Tháng 8 năm 2015, mình đăng kí vào câu lạc bộ đầu tiên trong đời, đội Media Ban Thanh Niên tình nguyện. Mọi người nhanh chóng trở thành một gia đình mới của mình ở Đại học. Những người bạn đáng quý và cả đáng yêu, ngày đêm thỏa sức sáng tạo ra bao thông điệp tuổi trẻ. Ở đó, mình gặp anh Lê Ngọc Hưng, dạy đàn em về đam mê, sáng tạo và nghệ thuật. Giờ thì ảnh đã trở thành đạo diễn thành công rồi.
 
