@@ -27,6 +27,10 @@ Tháng 8 năm 2017, mình dành được chiếc học bổng đầu tiên ! M�
 
 ![Nhật Bản osen](/images/about/japan_group.JPG "Đi tắm Osen")
 
+Khi nói đến Nhật Bản, mình sẽ nhớ mãi hai người bạn, Shin và Rei. Và cũng ít khi nào mình có duyên với một người bạn nước ngoài đến vậy, mình gặp Shin ba lần tất thảy, hai lần ở Việt Nam và một lần ở Nhật Bản. Nếu có cơ hội, thì mong có thể được gặp cả Shin và Rei để cùng chạm một cụm bia. Champai ! Còn Rei, mình chỉ gặp có một lần, còn lần thứ hai Rei sang Việt Nam thăm mình thì mình đang ở một nơi khác xa ...
+
+![Nhật Bản osen](/images/about/shin.jpg "Đi tắm Osen")
+
 Tháng 1 năm 2018, mình bắt đầu một hành trang mới, đến một vùng đất xa xôi có tuyết và ông già Nô-En ! Xách vali lên và đi, mình học một kì trao đổi tại trường Đại học Công nghệ Tampere, Phần Lan theo học bổng Erasmus+ KA1. Cuộc sống ở đây vui, mình ngộ ra được rất rất nhiều điều khi được tiếp xúc những người bạn nơi xa với góc nhìn cuộc sống hoàn toàn khác.
 
 ![Tuyết Phần Lan](/images/about/finland.jpg "Tuyết và người bạn cùng nhà")
