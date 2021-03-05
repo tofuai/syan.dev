@@ -11,16 +11,13 @@ Xin chào các bạn, tên đầy đủ của mình là Nguyễn Sỹ An.
 
 Mình sinh ra và lớn lên ở Hòa Bình. Năm 2015, chân ướt chân ráo bước lên Hà Nội, sự kiến đánh dấu cột mốc với rất nhiều thay đổi sau này của bản thân. Mình theo học hệ Kỹ sư công nghệ thông tin, Đại học Bách Khoa Hà Nội.
 
-Tháng 8 năm 2015, mình đăng kí vào câu lạc bộ đầu tiên trong đời, đội Media Ban Thanh Niên tình nguyện. Mọi người nhanh chóng trở thành một gia đình mới của mình ở Đại học. Những người bạn đáng quý và cả đáng yêu, ngày đêm thỏa sức sáng tạo ra bao thông điệp tuổi trẻ. Ở đó, mình gặp anh Lê Ngọc Hưng, dạy đàn em về đam mê, sáng tạo và nghệ thuật. Giờ thì ảnh đã trở thành đạo diễn thành công rồi.
+Tháng 8 năm 2015, mình đăng kí vào câu lạc bộ đầu tiên trong đời, đội Media Ban Thanh Niên tình nguyện. Mọi người nhanh chóng trở thành một gia đình mới của mình ở Đại học. 
 
 ![btn media](/images/about/btn_media.jpg "Bữa sinh nhật vị đội trưởng đáng yêu mến")
 
 Tháng 7 năm 2016, mình tham gia hai hoạt động lớn nhất của tuổi trẻ, Tiếp sức mùa thi và Mùa hè xanh. Gọi là đi làm tình nguyện thì lớn lao quá, công việc chính không phải để giúp người khác, mà là để giúp chính bản thân mình - trưởng thành hơn.
 
 ![tiếp sức mùa thi](/images/about/tsmt_2016.jpg "Tiếp sức mùa thi 2016.")
-
-Mùa hè xanh của mình là những buổi dạy học cho trẻ vùng cao, những lần đi xin củi cùng rau ngót để nấu ăn cho cả đội, những hôm cuốc đất dưới trời nắng oi, ... Đi làm tình nguyện rồi, bạn sẽ cảm thấy sự có ích của mình trong xã hội từ những điều giản đơn nhất.
-
 ![mùa hè xanh](/images/about/mhx_walk.jpg "Mùa hè xanh 2016 - Hóa Trung. Chân rảo bước hát chung một bài ca.")
 
 Tháng 8 năm 2017, mình dành được chiếc học bổng đầu tiên ! Một khóa học Robot ngắn hạn tại học viện công nghệ Shibaura, Nhật Bản. Dẫn đoàn là thầy Ngô Lam Trung, người đã giúp đỡ và động viên mình rất nhiều sau này khi kiếm các học bổng khác.
@@ -31,7 +28,7 @@ Khi nói đến Nhật Bản, mình sẽ nhớ mãi hai người bạn, Shin và
 
 ![Nhật Bản osen](/images/about/shin.jpg "Đi tắm Osen")
 
-Tháng 1 năm 2018, mình bắt đầu một hành trang mới, đến một vùng đất xa xôi có tuyết và ông già Nô-En ! Xách vali lên và đi, mình học một kì trao đổi tại trường Đại học Công nghệ Tampere, Phần Lan theo học bổng Erasmus+ KA1. Cuộc sống ở đây vui, mình ngộ ra được rất rất nhiều điều khi được tiếp xúc những người bạn nơi xa với góc nhìn cuộc sống hoàn toàn khác.
+Tháng 1 năm 2018, mình bắt đầu một hành trang mới, đến một vùng đất xa xôi có tuyết và ông già Nô-En ! Xách vali lên và đi, mình học một kì trao đổi tại trường Đại học Công nghệ Tampere, Phần Lan theo học bổng Erasmus+ KA1.
 
 ![Tuyết Phần Lan](/images/about/finland.jpg "Tuyết và người bạn cùng nhà")
 
