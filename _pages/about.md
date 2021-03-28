@@ -7,11 +7,9 @@ image:
 
 ![handsome boy](/images/about/avatar.jpg "Mình và biển Đại Tây Dương ở Indonesia")
 
-Xin chào các bạn, tên đầy đủ của mình là Nguyễn Sỹ An.
+Xin chào các bạn, mình là Nguyễn Sỹ An. Mình sinh ra và lớn lên ở Hòa Bình. 
 
-Mình sinh ra và lớn lên ở Hòa Bình. Năm 2015, chân ướt chân ráo bước lên Hà Nội, sự kiến đánh dấu cột mốc với rất nhiều thay đổi sau này của bản thân. Mình theo học hệ Kỹ sư công nghệ thông tin, Đại học Bách Khoa Hà Nội.
-
-Tháng 8 năm 2015, mình đăng kí vào câu lạc bộ đầu tiên trong đời, đội Media Ban Thanh Niên tình nguyện. Mọi người nhanh chóng trở thành một gia đình mới của mình ở Đại học. 
+Tháng 8 năm 2015, mình theo học Bách Khoa Hà Nội, chương trình công nghệ thông tin. Tham gia câu lạc bộ đầu tiên trong đời, đội Media Ban Thanh Niên tình nguyện. Mọi người nhanh chóng trở thành một gia đình mới của mình ở Đại học.
 
 ![btn media](/images/about/btn_media.jpg "Bữa sinh nhật vị đội trưởng đáng yêu mến")
 
@@ -48,7 +46,7 @@ Những chuyến đi thời sinh viên, thì cũng đầy những kỉ niệm kh
 
 ![Sân bay đêm không ngủ](/images/about/sleep.jpg "Ngủ trải báo tại sân bay Malaysia")
 
-Đi riết rồi thì cũng phải về. Lớp học của mình nhỏ, chỉ chưa đầy 30 thành viên, thế nên nó cứ đáng yêu nhưng một lớp học cấp 3 vậy. Chúng mình còn có một người cô chủ nhiệm hết mình vì sinh viên nữa, cô Trương Diệu Linh !
+Lớp đại học của mình cùng cô giáo chủ nhiệm Trương Diệu Linh.
 
 ![My Global ICT](/images/about/my_ict.jpg "Lớp học nhỏ")
 
