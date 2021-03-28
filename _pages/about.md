@@ -22,7 +22,7 @@ Tháng 7 năm 2016, mình tham gia hai hoạt động lớn nhất của tuổi 
 
 Tháng 8 năm 2017, mình dành được chiếc học bổng đầu tiên ! Một khóa học Robot ngắn hạn tại học viện công nghệ Shibaura, Nhật Bản. Dẫn đoàn là thầy Ngô Lam Trung, người đã giúp đỡ và động viên mình rất nhiều sau này khi kiếm các học bổng khác.
 
-![Nhật Bản osen](/images/about/japan_group.JPG "Đi tắm Osen")
+![Nhật Bản osen](/images/about/japan_group.jpg "Đi tắm Osen")
 
 Khi nói đến Nhật Bản, mình sẽ nhớ mãi hai người bạn, Shin và Rei. Và cũng ít khi nào mình có duyên với một người bạn nước ngoài đến vậy, mình gặp Shin ba lần tất thảy, hai lần ở Việt Nam và một lần ở Nhật Bản. Nếu có cơ hội, thì mong có thể được gặp cả Shin và Rei để cùng cụm bia một lần nữa. Champai ! 
 
@@ -42,7 +42,7 @@ Tháng 8 năm 2019, chuyến đi cuối cùng và đẹp nhất của mình th�
 
 Mười bảy ngày thực sự quý giá như một giấc mơ. Mỗi ngày trôi qua là một cuộc khám phá mới trên đất nước mới với những con người phi thường. Những người bạn mình không bao giờ quên.
 
-![Indonesia](/images/about/happy_indonesia.JPG "Tiếng cười và biển Ấn Độ Dương")
+![Indonesia](/images/about/happy_indonesia.jpg "Tiếng cười và biển Ấn Độ Dương")
 
 Những chuyến đi thời sinh viên, thì cũng đầy những kỉ niệm khốn khó của sinh viên. Và đáng nhớ nhất, là khi mình cùng Minh Tô ăn bánh mì và trải báo ngủ 2 đêm ở sân bay Malaysia chả hạn.
 
